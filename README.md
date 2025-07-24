@@ -37,14 +37,10 @@
 ```bash
 envirosage/
 ├── Datasets/              # Generated and cleaned synthetic datasets
-├── Images_graphs/         # Plots, charts, and prediction visualizations
 ├── documentation/         # Full technical documentation (overview, methodology, etc.)
 ├── research/              # Indian datasets and comparative research scripts
 ├── src/                   # Source code for model training, sensor integration, APIs
-│   └── Hardware/          # Arduino + NodeMCU setup & firmware code
-│       └── README.md      # Hardware architecture and setup instructions
-├── README.md              # This file
-└── .gitignore             # Git ignore rules
+└── README.md             # Git ignore rules
 ```
 
 ---
