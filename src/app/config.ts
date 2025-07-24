@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore'; // Import Firestore
 
 // Firebase config (replace with your Firebase project settings)
 const firebaseConfig = {
-  apiKey: 'AIzaSyChU2gfVwcDZ0sXunkPDWwb8ex_ZrGEMEQ',
-  authDomain: 'envirosage-bda0c.firebaseapp.com',
-  projectId: 'envirosage-bda0c',
-  storageBucket: 'envirosage-bda0c.firebasestorage.app',
-  messagingSenderId: '281254631132',
-  appId: '1:281254631132:web:ab8cbbb9e7509bdbd64619',
+  apiKey: 'Your_Secret_key',
+  authDomain: 'Your_ID.firebaseapp.com',
+  projectId: 'Your_Project_ID',
+  storageBucket: 'Your_Project_ID.firebasestorage.app',
+  messagingSenderId: 'Sender_ID',
+  appId: 'Your_app_ID',
 };
 
 // Initialize Firebase
